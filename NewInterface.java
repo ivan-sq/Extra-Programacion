@@ -134,3 +134,4 @@ private boolean validarCredenciales(String id, String nombre) {
     public void mostrarNewInterfaz() {
     }
 }
+// 
